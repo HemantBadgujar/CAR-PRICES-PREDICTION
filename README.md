@@ -1,2 +1,2 @@
 # CAR-PRICES-PREDICTION
-KMeans Clustering model with PCA was used to cluster the set of countries in the need of funds based on their socio-economical and health factors for the effective fund allocation.
+Linear regression model was created to which will help the management to understand the pricing dynamics of a new market.
